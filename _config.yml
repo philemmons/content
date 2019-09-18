@@ -12,6 +12,8 @@ url:                 http://lanyon.getpoole.com
 baseurl:             '/lanyon'
 paginate:            5
 
+disqus_baseurl:      'https://philemmons.github.io/lanyon'
+disqus_shortname:    philemmons
 # About/contact
 author:
   name:              Mark Otto
