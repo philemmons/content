@@ -29,6 +29,14 @@ Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content 
 
 Lanyon is a theme built on top of [Poole](https://github.com/poole/poole), which provides a fully furnished Jekyll setup—just download and start the Jekyll server. See [the Poole usage guidelines](https://github.com/poole/poole#usage) for how to install and use Jekyll.
 
+Integrating Disqus comments: “Add Disqus to your site”. If you already have an account, click on the gear icon on the top right corner and select the option. Follow the steps until it gives you a shortname for your website. Note that the comments will not run if you don’t set comments to true in the YAML front-matter of the posts. So open any post (2014-01-02-introducing-lanyon.md) from the _posts folder and add the following line on top:
+```
+---
+layout: post
+title: Introducing Lanyon
+comments: true /*add this line*/
+---
+```
 
 ## Options
 
