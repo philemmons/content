@@ -37,7 +37,11 @@ title: Introducing Lanyon
 comments: true /*add this line*/
 ---
 ```
-
+Also, add these to the _config.yml file
+```
+disqus_baseurl: "https://'my_repo_name'.github.io/"
+disqus_shortname: 'your_short_name'
+```
 ## Options
 
 Lanyon includes some customizable options, typically applied via classes on the `<body>` element.
