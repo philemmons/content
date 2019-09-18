@@ -13,7 +13,7 @@ baseurl:             '/lanyon'
 paginate:            5
 
 disqus_baseurl:      'https://philemmons.github.io/lanyon'
-disqus_shortname:    philemmons.github.io
+disqus_shortname:    philemmons
 
 # About/contact
 author:
