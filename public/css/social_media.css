@@ -1,6 +1,6 @@
 // style social media buttons
 //https://css-tricks.com/theres-more-to-the-css-rem-unit-than-font-sizing/
-.fa {
+.soc_med {
   padding: .5rem;
   font-size: 1.3rem;
   width: 1.3rem;
@@ -10,7 +10,7 @@
   border-radius: 50%;
 }
 
-.fa:hover {
+.soc_med:hover {
     opacity: 0.7;
 }
 
