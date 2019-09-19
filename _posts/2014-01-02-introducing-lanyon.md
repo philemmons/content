@@ -2,7 +2,6 @@
 layout: post
 title: Introducing Lanyon
 ---
-<!---Note that the comments will not run if you don’t set comments to true in the YAML frontmatter of the posts.--->
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
@@ -10,7 +9,7 @@ Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content 
 
 Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
 
-* Complete Jekyll setup included (layouts, config, [404](/lanyon/404), [RSS feed](/lanyon/atom.xml), posts, and [example page](/lanyon/about))
+* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
 * Mobile friendly design and development
 * Easily scalable text and component sizing with `rem` units in the CSS
 * Support for a wide gamut of HTML elements
