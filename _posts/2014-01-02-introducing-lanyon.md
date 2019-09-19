@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Introducing Lanyon
-comments: true
 ---
 <!---Note that the comments will not run if you don’t set comments to true in the YAML frontmatter of the posts.--->
 
