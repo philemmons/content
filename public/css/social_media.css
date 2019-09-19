@@ -8,6 +8,7 @@
   text-decoration: none;
   margin: 0.25rem;
   border-radius: 50%;
+  box-sizing: none; 
 }
 
 .fa:hover {
