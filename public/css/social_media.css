@@ -1,11 +1,12 @@
 // style social media buttons
 //https://css-tricks.com/theres-more-to-the-css-rem-unit-than-font-sizing/
 .fa {
-  padding: 0.5 rem;
-  font-size: 2 rem;
-  width: 2 rem;
+  padding: .5rem;
+  font-size: 1.3rem;
+  width: 1.3rem;
   text-align: center;
   text-decoration: none;
+  margin: 0.25rem;
   border-radius: 50%;
 }
 
