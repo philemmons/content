@@ -18,6 +18,9 @@ disqus_shortname: philemmons
 
 ga_tracking_id: "G-DLLSV6G8Q7"
 
+plugins:
+  - jekyll-sitemap
+  
 # About/contact
 author:
   name:              Mark Otto
