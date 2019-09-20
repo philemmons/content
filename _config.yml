@@ -11,6 +11,7 @@ description: 'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a
 url: http://lanyon.getpoole.com
 baseurl: "/lanyon"
 paginate: 5
+github.repo: "https://github.com/poole/lanyon"
 
 disqus_baseurl: "https://philemmons.github.io/lanyon"
 disqus_shortname: philemmons
