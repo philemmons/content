@@ -6,6 +6,8 @@
 
  - https://www.nikhita.dev/build-blog-using-github-jekyll
  
+ - https://chrisschuld.com/2019/02/building-your-own-website-in-jekyll/
+ 
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
