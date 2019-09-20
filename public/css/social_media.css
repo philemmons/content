@@ -4,7 +4,7 @@
   width: 1.2rem;
   text-align: center;
   text-decoration: none;
-  margin: 0.1rem;
+  margin: 0.2rem;
   border-radius: 50%;
   box-sizing: initial;
 }
@@ -14,7 +14,7 @@
 }
 
 .fa-facebook {
-  background: #3B5998;
+  background: #3b5998;
   color: white;
 }
 
@@ -65,22 +65,22 @@
 }
 
 .fa-dribbble {
-  background: #ea4c89;
+  background: #9ba5a8;
   color: white;
 }
 
 .fa-vimeo {
-  background: #45bbff;
+  background: #1ab7ea;
   color: white;
 }
 
 .fa-tumblr {
-  background: #2c4762;
+  background: #35465c;
   color: white;
 }
 
 .fa-vine {
-  background: #00b489;
+  background: #00b488;
   color: white;
 }
 
@@ -95,26 +95,26 @@
 }
 
 .fa-flickr {
-  background: #f40083;
+  background: #0063dc;
   color: white;
 }
 
 .fa-yahoo {
-  background: #430297;
+  background: #410093;
   color: white;
 }
 
 .fa-soundcloud {
-  background: #ff5500;
+  background: #ff8800;
   color: white;
 }
 
 .fa-reddit-alien {
-  background: #ff5700;
+  background: #ff4301;
   color: white;
 }
 
 .fa-rss {
-  background: #ff6600;
+  background: #f26522;
   color: white;
 }
