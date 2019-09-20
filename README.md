@@ -1,6 +1,6 @@
 # Lanyon
 
-## Great Tutorials - Thank you both.
+## Great Tutorials - Thank you all.
 
  - https://www.youtube.com/watch?v=bty7LHm14CA
 
