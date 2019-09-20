@@ -1,7 +1,7 @@
 .fa {
-  padding: .4rem;
-  font-size:1.3rem;
-  width: 1.2rem;
+  padding: .3rem;
+  font-size:1.5rem;
+  width: 1.4rem;
   text-align: center;
   text-decoration: none;
   margin: 0.2rem;
@@ -19,7 +19,7 @@
 }
 
 .fa-github-alt {
-  background: #ffffff;
+  background: #000000;
   color: white;
 }
 
