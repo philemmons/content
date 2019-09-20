@@ -12,7 +12,7 @@ url: http://lanyon.getpoole.com
 baseurl: "/lanyon"
 paginate: 5
 sourceUrl: https://github.com/poole/lanyon
-
+githubUrl: https://github.com/philemmons
 disqus_baseurl: "https://philemmons.github.io/lanyon"
 disqus_shortname: philemmons
 
@@ -20,6 +20,7 @@ ga_tracking_id: "G-DLLSV6G8Q7"
 
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
   
 # About/contact
 author:
