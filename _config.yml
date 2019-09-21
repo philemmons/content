@@ -16,7 +16,7 @@ githubUrl: https://github.com/philemmons
 disqus_baseurl: "https://philemmons.github.io/content"
 disqus_shortname: philemmons
 
-ga_tracking_id: "G-DLLSV6G8Q7"
+ga_tracking_id: "G-S2QEQXYP6F"
 
 plugins:
   - jekyll-sitemap
