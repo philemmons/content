@@ -7,7 +7,7 @@ permalink: pretty
 # Setup
 title: Phillip T. Emmons
 tagline: "Life is Beautiful."
-description: 'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description: 'Personal adventures, technical write-ups, hobbies, and a place to exchange thoughts.'
 url: http://lanyon.getpoole.com
 baseurl: "/content"
 paginate: 3
