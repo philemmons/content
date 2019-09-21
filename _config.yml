@@ -5,8 +5,8 @@ permalink: pretty
 # relative_permalinks: true
 
 # Setup
-title: Lanyon
-tagline: "A Jekyll theme"
+title: Phillip T. Emmons
+tagline: "Life is Beautiful."
 description: 'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url: http://lanyon.getpoole.com
 baseurl: "/content"
@@ -14,7 +14,7 @@ paginate: 3
 sourceUrl: https://github.com/poole/lanyon
 githubUrl: https://github.com/philemmons
 disqus_baseurl: "https://philemmons.github.io/content"
-disqus_shortname: philemmons
+disqus_shortname: github.io
 
 ga_tracking_id: "G-S2QEQXYP6F"
 
@@ -24,9 +24,9 @@ plugins:
   
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Phillip T. Emmons
+  url:               https://www.linkedin.com/in/phillip-t-emmons-0a9052125/
+  email:             pemmons@csumb.edu
 
 # Custom vars
 version:             1.0.0
