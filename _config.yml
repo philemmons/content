@@ -12,21 +12,30 @@ url: http://lanyon.getpoole.com
 baseurl: "/content"
 paginate: 3
 sourceUrl: https://github.com/poole/lanyon
-githubUrl: https://github.com/philemmons
+
 disqus_baseurl: "https://philemmons.github.io/content"
 disqus_shortname: github.io
 
 ga_tracking_id: "G-S2QEQXYP6F"
 
+email: pemmons@csumb.edu
+linkedInUrl: https://www.linkedin.com/in/phillip-t-emmons-0a9052125/
+githubUrl: https://github.com/philemmons
+fbUrl : #
+pinterestUrl: https://www.pinterest.com/philemmons
+skypeUrl: #
+snapchatUrl: #
+instagramUrl: #
+
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-  
+
 # About/contact
 author:
-  name:              Phillip T. Emmons
-  url:               https://www.linkedin.com/in/phillip-t-emmons-0a9052125/
-  email:             pemmons@csumb.edu
+  name: Phillip T. Emmons
+  email: pemmons@csumb.edu
 
 # Custom vars
 version:             1.0.0
