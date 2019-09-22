@@ -18,14 +18,14 @@ disqus_shortname: github.io
 
 ga_tracking_id: "G-S2QEQXYP6F"
 
-email: pemmons@csumb.edu
-linkedInUrl: https://www.linkedin.com/in/phillip-t-emmons/
+email: pemmons
+linkedInUrl: phillip-t-emmons/
 githubUrl: https://github.com/philemmons/
-fbUrl : https://www.facebook.com/phillip.t.emmons/
-pinterestUrl: https://www.pinterest.com/philemmons
+fbUrl : phillip.t.emmons/
+pinterestUrl: philemmons
 skypeUrl: #
 snapchatID: zathor9902
-instagramUrl: https://www.instagram.com/emmons9902/
+instagramUrl: emmons9902/
 
 
 plugins:
@@ -35,7 +35,7 @@ plugins:
 # About/contact
 author:
   name: Phillip T. Emmons
-  email: pemmons@csumb.edu
+  contact: pemmons at csumb dot edu
 
 # Custom vars
 version:             1.0.0
