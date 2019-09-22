@@ -1,6 +1,9 @@
-# Lanyon
 
-## Great Tutorials - Thank you all.
+
+
+Major kudos goes out to [Mark Otto](<https://twitter.com/mdo>), the developer of [Lanyon]( http://lanyon.getpoole.com) theme that is derived from [Poole](http://getpoole.com), and the volunteers that maintain [Jekyll](https://jekyllrb.com/) for the initial github.io website.
+
+Also, these great tutorials were essential in getting the website online and customization.
 
  - https://www.youtube.com/watch?v=bty7LHm14CA
 
