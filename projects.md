@@ -8,7 +8,7 @@ Code for San Francisco Congressional Data Challenge<here> - Group Project, Analy
 > ToolChain: Jupyter Notebook, Mode Analytics, Trello, Github, Google Hangouts, Slack
   
 Movie Insight - Team Implemented Dynamic Interactive User Experience Website Based on Actors/Directors from themoviedb.org API, User Registration, User Chat, Persistent User’s Search History, Upvote Search Results - HTML5, CSS3, BootStrap, JavaScript, PHP,  JQuery, MySQL, JawsDB - Source Code
-> Tool Chain: Cloud9, GitHub(Code, Project, Wiki), Heroku, CircleCI,  Slack, MySQL Workbench,  Project Wiki, Progress Board, WireFrame, UML Use Cases, MVC Framework
+> Tool Chain: Cloud9, GitHub(Code Repo, Project, Wiki), Heroku, CircleCI,  Slack, MySQL Workbench, WireFrame, UML Use Cases, MVC Framework
 
 Comic Ink - Interfacing Client and Server Side Technologies, Customized User Story,  Mockup, ER Diagram, Admin Privileges(CRUD and AJAX) -  HTML, CSS3, BootStrap, JavaScript, PHP, JQuery, MySQL, JawsDB - Source Code
 > Tool Chain:  Cloud9, GitHub, Heroku, MySQL Workbench, MVC Framework
