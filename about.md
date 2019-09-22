@@ -3,28 +3,12 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## About Me
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+<p> My name is Phillip Emmons, and I have resided in Marina California for sixteen years. As a very young man I was enthralled with video game arcades. When our family acquired an Atari 800,  a five and a quarter inch floppy drive, and eventually a direct connect modem with a 300 baud upload download speed, we were all looking forward to the hours of entertainment. The computer itself possessed 16k of RAM on cartridges much like an 8-track tape that were inserted into it. I copied my first program of a game into that system and that moment was magical.</p>  
 
-There are currently two themes built on Poole:
+<p>Currently, I am committed to beginning my second career  as a software engineer, developed over the years of education.  My degrees consist of an A.A. in Computer Science and Information Systems, an A.S.T. in Mathematics that both are from Monterey Peninsula College with highest honors in 2016, and B.S. in Computer Science with a Software Engineering concentration from California State University Monterey Bay in 2018 with honors also. </p>
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+<p>It will be exciting to see what the future has in store. :+1: </p>
 
-Learn more and contribute on [GitHub](https://github.com/poole).
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
