@@ -6,7 +6,8 @@ title: Projects
 [Code for San Francisco Congressional Data Challenge](http://codeforsanfrancisco.org/) - Capstone Project, Analyzed Campaign Finance Data for Political Candidates in California, Feature Engineering and Pipeline Results, [North Star Career Alignment](https://docs.google.com/document/d/1uUj2jG5GzVfJjuf2d90VsctEQG7_4l5YCAF4HXYtKWw/edit?usp=sharing).
 * Python, Scikit-Learn, PostgreSQL, gitLFS.
 * Tool Chain: Jupyter Notebook, Mode Analytics, Trello, Github, Google Hangouts, Slack.
-<br/><a class="openSourceLink" href="https://github.com/sfbrigade/datasci-congressional-data/tree/master/notebooks/sql"><i class="fab fa-github"></i> Github</a>  
+<br/><a class="openSourceLink" href="https://github.com/sfbrigade/datasci-congressional-data/tree/master/notebooks/sql"><i class="fab fa-github"></i> Github</a>
+<a href="{{ site.githubUrl }}" class="fa fa-github-square" target="_blank">Github</a>
 
 
 [Movie Insight](https://movie-insights.herokuapp.com/index.php) - Team Implemented Dynamic Interactive User Experience Website Based on Actors/Directors from [themoviedb.org](https://developers.themoviedb.org/3/movies/get-movie-details) API, User Registration, [Realtime Chat](https://github.com/philemmons/hw5-group4), Persistent User’s Search History, Upvote Search Results.
