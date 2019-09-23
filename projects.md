@@ -15,7 +15,7 @@ title: Academic Projects
 <br/><a href="https://github.com/CSUMB-SCD/group4_FinalProject" class="fa fa-github-square" target="_blank">Github</a>
 
 
-* [Comic Ink](https://comix-ink.herokuapp.com/index.php) - Interfacing Client and Server Side Technologies, Customized [User Story](https://github.com/philemmons/Comic-Ink/blob/master/README.md), [Mockup](https://github.com/philemmons/Comic-Ink/blob/master/document/mockUpDesign.pdf), [ER Diagram](https://github.com/philemmons/Comic-Ink/blob/master/document/erDiagram.pdf), Admin Privileges([CRUD]![alt text](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete "Create, Read, Update, and Delete" ) and AJAX).
+* [Comic Ink](https://comix-ink.herokuapp.com/index.php) - Interfacing Client and Server Side Technologies, Customized [User Story](https://github.com/philemmons/Comic-Ink/blob/master/README.md), [Mockup](https://github.com/philemmons/Comic-Ink/blob/master/document/mockUpDesign.pdf), [ER Diagram](https://github.com/philemmons/Comic-Ink/blob/master/document/erDiagram.pdf), Admin Privileges([CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete "Create, Read, Update, and Delete" ) and AJAX).
   * HTML5, CSS3, BootStrap, JavaScript, PHP, JQuery, MySQL, JawsDB. 
   * Tool Chain: Cloud9, GitHub, Heroku, MySQL Workbench, MVC Framework.
 <br/><a href="https://github.com/philemmons/Comic-Ink" class="fa fa-github-square" target="_blank">Github</a>
