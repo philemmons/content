@@ -25,6 +25,7 @@
  * Pagination
  * Reverse layout
  * Themes
+ * Custom - philemmons
  */
 
 
@@ -560,4 +561,32 @@ a.pagination-item:hover {
 /* Only one tweak for a reverse layout */
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
+}
+
+
+/*
+ * Customize the github links in Projects
+ * author: Chris Schuld
+ *
+ */
+.openSourceLink {
+	background-color:transparent;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	border:1px solid ##202020;
+	display:inline-block;
+	cursor:pointer;
+	color:##202020;
+	font-size:14px;
+	font-weight:normal;
+	padding:3px 8px;
+	text-decoration:none;
+}
+.openSourceLink:hover {
+	background-color:transparent;
+}
+.openSourceLink:active {
+	position:relative;
+	top:1px;
 }
