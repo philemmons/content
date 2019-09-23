@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Academic Projects
 ---
 
 * [Code for San Francisco Congressional Data Challenge](http://codeforsanfrancisco.org/) - Capstone Project, Analyzed Campaign Finance Data for Political Candidates in California, Feature Engineering and Pipeline Results, [North Star Career Alignment](https://docs.google.com/document/d/1uUj2jG5GzVfJjuf2d90VsctEQG7_4l5YCAF4HXYtKWw/edit?usp=sharing).
