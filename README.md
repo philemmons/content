@@ -9,7 +9,7 @@ Major kudos goes out to [Mark Otto](<https://twitter.com/mdo>), the developer of
 
 Also, these are some great tutorials that were essential in getting this website online and customized.
 
- - https://www.youtube.com/watch?v=bty7LHm14CA
+ - WebJeda Tutorial: https://www.youtube.com/watch?v=bty7LHm14CA
  - https://www.nikhita.dev/build-blog-using-github-jekyll
  - https://chrisschuld.com/2019/02/building-your-own-website-in-jekyll
 
