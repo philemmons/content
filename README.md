@@ -13,7 +13,7 @@ Also, these are some great tutorials that were essential in getting this website
 - [Nikhita Raghunath's Post](https://www.nikhita.dev/build-blog-using-github-jekyll)
 - [Chris Schuld's Project and Tags Setup](https://chrisschuld.com/)
  
-These three guides offer more website functionality too. 
+Next, these three guides offer more functionality to my website as to improve the design and implementation for the user. 
 
 - [Joshua Lande's post](http://joshualande.com/jekyll-github-pages-poole)
 - [Kyle Stratis's post](http://kylestratis.com/2015/04/17/blog-setup/)
