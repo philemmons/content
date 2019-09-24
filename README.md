@@ -1,5 +1,5 @@
 
-## Phillip Emmons' Personal Website++
+## Phillip Emmons' Personal Website Plus Plus
 
 > *"Embracing my inner nerd since 1969!"*
 
