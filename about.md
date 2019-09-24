@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
- *Life is Beautiful*
+ ### *Life is Beautiful*
  <br/><br/>
 My name is Phillip Emmons, and I have resided in Marina, California for sixteen years. As a very young man, I was enthralled with video game arcades. When our family acquired an [Atari800](http://oldcomputers.net/atari800.html), a five and a quarter inch floppy drive, and eventually a direct connect modem with a 300 baud upload/download speed, we were all looking forward to the hours of entertainment. The computer itself possessed 16k of RAM on cartridges much like an 8-track tape that were inserted into the console. Eventually, I copied my first program of a game into that system, and it was a magical moment!
 
@@ -12,7 +12,7 @@ Currently, I am committed to beginning my second career as Software Engineer, as
   * A.A. in Computer Science and Information Systems. 
   * A.S.T. in Mathematics.
 
-## About the Site
+### About the Site
 
 Major kudos goes out to [Mark Otto](<https://twitter.com/mdo>), the developer of the [Lanyon]( http://lanyon.getpoole.com) theme that is derived from [Poole](http://getpoole.com), and the volunteers that maintain [Jekyll](https://jekyllrb.com/) for the initial github.io website.
 
