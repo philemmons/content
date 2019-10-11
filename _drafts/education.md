@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Education
+comments: true
 ---
 
 
