@@ -9,7 +9,7 @@ title: Phillip T. Emmons
 tagline: "Embracing my inner nerd since 1969!"
 description: 'Personal adventures, technical write-ups, hobbies, and a place to exchange thoughts.'
 url: http://lanyon.getpoole.com
-baseurl: ""
+baseurl: "/content"
 paginate: 3
 sourceUrl: https://github.com/poole/lanyon
 
