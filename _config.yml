@@ -13,7 +13,7 @@ baseurl: "/content"
 paginate: 3
 sourceUrl: https://github.com/poole/lanyon
 
-disqus_baseurl: "https://philemmons.github.io/content"
+disqus_baseurl: "https://philemmons.github.io/content/"
 disqus_shortname: github.io
 
 ga_tracking_id: "G-S2QEQXYP6F"
