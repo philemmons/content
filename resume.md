@@ -3,8 +3,8 @@ layout: page
 title: Resume
 ---
 
-# <div align="center">Phillip Thomas Emmons</div>
-#### <div align="center">831.236.0849 | philemmons.now@gmail.com | https://www.linkedin.com/in/phillip-t-emmons/</div>
+##Phillip Thomas Emmons
+#### 831.236.0849 | philemmons.now@gmail.com | [https://www.linkedin.com/in/phillip-t-emmons/](https://www.linkedin.com/in/phillip-t-emmons/)
 ---
 #### **Profile**
 
