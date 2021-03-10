@@ -12,7 +12,7 @@ title: Resume
 
 <div align="center">
   
-| &emsp; &emsp; &emsp; &emsp; **Technical - Deep** &emsp; &emsp; &emsp; &emsp; | &emsp; &emsp; &emsp; &emsp; **Technical - Broad** &emsp; &emsp; &emsp; &emsp; | &emsp; &emsp; &emsp; &emsp;  **Personality** &emsp; &emsp; &emsp; &emsp; |
+| **Technical - Deep** | **Technical - Broad** | **Personality** |
 |:-:|:-:|:-:|
 | Java 	■■■■□ | Algorithms, Git | Team Work |
 | Data Structures ■■■■■ | PHP, MySQL | Problem Solving |
