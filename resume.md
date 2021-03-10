@@ -4,7 +4,7 @@ title: Resume
 ---
 
 # Phillip Thomas Emmons
-#### 831.236.0849 | philemmons.now@gmail.com | [https://www.linkedin.com/in/phillip-t-emmons/](https://www.linkedin.com/in/phillip-t-emmons/)
+##### 831.236.0849 | philemmons.now@gmail.com | [https://www.linkedin.com/in/phillip-t-emmons/](https://www.linkedin.com/in/phillip-t-emmons/)
 ---
 #### **Profile**
 
@@ -22,12 +22,12 @@ title: Resume
 |  | React, Jade | Organization |
 
 ---
-### **Major Academic Projects**
+#### **Major Academic Projects**
 
-### **BACK END DATA VISUALIZATION ENGINEER &emsp; &emsp; &emsp; &emsp; 02/18 to 05/18**
+##### **BACK END DATA VISUALIZATION ENGINEER** &emsp; &emsp; 02/18 to 05/18
 &emsp; &emsp; &emsp; &emsp; Code for America, [Congressional Data Challenge](https://docs.google.com/presentation/d/1vt1PHWl634FETYke7yBlyp7s80rWXtElhJZRrJBLCwQ/edit#slide=id.p1) Data Science Team.
 
-***Explored, organized, and transformed raw data from California’s General Elections from 2010 to 2016 into features for our predictive models and User Interface Team.***
+*Explored, organized, and transformed raw data from California’s General Elections from 2010 to 2016 into features for our predictive models and User Interface Team.*
 	
 - Contributed to a [documented, functional pipeline](https://docs.google.com/document/d/1uUj2jG5GzVfJjuf2d90VsctEQG7_4l5YCAF4HXYtKWw/edit#heading=h.5rr7g1pboqz4) allowing peer review and reproduction on GitHub.
 - Preprocessed raw CSV data by identified missing and null values attributes for 1,502,264 rows, resulting in ten out of twenty-seven columns had anomalies with PostgreSQL queries. 
@@ -36,10 +36,10 @@ title: Resume
 - Supplied results and standardized data into a CSV file for populating the Client Side Team’s Jango database.
 - Tool Chain: PostgreSQL, Mode Analytics, Trello, GitHub, GitLFS, Google Hangouts, Slack.
 
-### **SOFTWARE ENGINEER	&emsp; &emsp; &emsp; &emsp; 09/17 to 12/17**
+##### **SOFTWARE ENGINEER**	&emsp; &emsp; 09/17 to 12/17
 &emsp; &emsp; &emsp; &emsp; Software Engineering Meta Course, Final Project - [Project Wiki](https://github.com/CSUMB-SCD/group4_FinalProject/wiki)
 
-***Team designed and implemented large-scale software application utilizing software principles. [Movie Insight(live)](https://movie-insights.herokuapp.com/)***
+*Team designed and implemented large-scale software application utilizing software principles. [Movie Insight(live)](https://movie-insights.herokuapp.com/)*
 
 - Collaborative program analysis and specifications including technologies, platform, web clients, search results, API’s, and persistent users within specifications and deadlines.
 - Created UML designs and reviewed various actors, user cases, classes, database relationships, and sequential diagrams which expressed conceptual ideas.
@@ -50,10 +50,10 @@ title: Resume
 - Communicated with Slack bi-weekly and in person stand up meetings with the aim of tracking application advancements, or issues, which were posted on our progression board.
 - Tool Chain: Cloud9, Github, Heroku, CircleCI, Slack, MySQL Workbench, Progress Board, Wireframe, UML User Cases.
 
-### **FULL STACK DEVELOPER &emsp; &emsp; &emsp; &emsp; 05/17**
+##### **FULL STACK DEVELOPER** &emsp; &emsp; 05/17
 &emsp; &emsp; &emsp; &emsp; Internet Programming, Final Project - [Comic Ink(live)](https://comix-ink.herokuapp.com/index.php)
 
-***Conceived, designed and implemented a website with specific constraints, focusing on the integration of server-side programming, database connectivity, and client-side scripting resulting in a dynamic web application.***
+*Conceived, designed and implemented a website with specific constraints, focusing on the integration of server-side programming, database connectivity, and client-side scripting resulting in a dynamic web application.*
 
 - Generated a user story, website mockup, and a simple database entity relationship diagram fabricating a final template that captured the product information and requirements.
 - Designed and implemented SQL database with several tables using CRUD and Restful services in PHP providing meaningful content for users.
@@ -63,7 +63,7 @@ title: Resume
 - Tool Chain: Cloud9, Github, Heroku, MySQL Workbench, MVC Framework.
 
 ---
-### **Education**
+#### **Education**
 - Bachelor of Science - Computer Science: Software Engineering, May 2018.
   - California State University Monterey Bay, Seaside, CA.
   - Graduated Cum Laude with 3.72, Dean’s List 2016 to 2018.
@@ -75,7 +75,7 @@ title: Resume
   - Awarded Highest Honors.
 
 ---
-### **Personal Interest**
+#### **Personal Interest**
 - Cooperative Board Gaming and RPGs.
 - Solving Rubik’s Cube.
 - Improving Skills [https://www.codewars.com/](https://www.codewars.com/)
