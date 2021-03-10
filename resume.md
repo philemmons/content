@@ -8,7 +8,7 @@ title: Resume
 ---
 #### **Profile**
 
-<p> Exceptionally focused and reliable Entry Level Java Developer with an outstanding work ethic and computer language knowledge base. My goals are to gain a position with an industry leader with an opportunity for advancement, to expand my skill set, and be an asset to the company’s culture. Furthermore, I am team-oriented and trainable professional with the ability to implement and manage technologies and data structures. In addition, during my college coursework, computational Mathematics was fascinating and truly enjoyable which broadens my qualitative and conceptual skills.
+<p> Exceptionally focused and reliable Entry Level Java Developer with an outstanding work ethic and computer language knowledge base. My goals are to gain a position with an industry leader with an opportunity for advancement, to expand my skill set, and be an asset to the company’s culture. Furthermore, I am team-oriented and trainable professional with the ability to implement and manage technologies and data structures. In addition, during my college coursework, computational Mathematics was fascinating and truly enjoyable which broadens my qualitative and conceptual skills.</p>
   
 | **Technical - Deep** | **Technical - Broad** | **Personality** |
 |:-:|:-:|:-:|
