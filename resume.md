@@ -3,7 +3,7 @@ layout: page
 title: Resume
 ---
 
-##Phillip Thomas Emmons
+## Phillip Thomas Emmons
 #### 831.236.0849 | philemmons.now@gmail.com | [https://www.linkedin.com/in/phillip-t-emmons/](https://www.linkedin.com/in/phillip-t-emmons/)
 ---
 #### **Profile**
