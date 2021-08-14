@@ -4,7 +4,7 @@ title: Resume
 ---
 
 # Phillip Emmons
-### 831.236.0849 | philemmons dot now at gmail dot com | LinkedIn Profile(https://www.linkedin.com/in/phillip-t-emmons/)
+### 831.236.0849 | philemmons dot now at gmail dot com | [LinkedIn Profile](https://www.linkedin.com/in/phillip-t-emmons/)
 ### **_Summary_**
 
 <p>Entry Level Software Engineer committed toward a second career by utilizing B.S. in Computer Science: Software Engineering – ethically designed, developed and deployed large scale software systems that executed on a variety of platforms including mobile, cloud, and other computing devices. Primarily  team participation with all aspects of software process such as codebase understanding, attending design and analysis meetings, devising technical documentation  and implementation based on specifications. Broadening qualitative and conceptual abilities through computational Mathematics was achieved, enjoyable, and challenging as well. Embracing opportunities for advancement, honing technology expertise, and becoming an asset within the company’s culture are critical.</p>
@@ -13,7 +13,7 @@ title: Resume
 |:-:|:-:|:-:|
 | Java 	■■■■□ | Algorithms, Git | Active Listening |
 | Data Structures ■■■■■ | PHP, MySQL | Prioritizing Goals |
-| HTML5 ■■■■□ | Google Suite, Python | Implement and Manage \\ Technologies |
+| HTML5 ■■■■□ | Google Suite, Python | Implement and Manage <br/> Technologies |
 | CSS3 ■■■■□ | JQuery, PostgreSQL |  Growth Mindset |
 | JavaScript ■■□□□ | R, BootStrap | Critical Thinking |
 | C++ ■■□□□ | DirectX11, NodeJS | Drive |
