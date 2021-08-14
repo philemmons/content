@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Cover Letter
+comments: true
 ---
 
 # [Phillip Emmons](https://drive.google.com/file/d/1fPsD66Gd0j4b638h2Ul0hdu7saO7B7Tm/view?usp=sharing)
 ### 831.236.0849 | philemmons.now at gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/phillip-t-emmons/){:target="_blank"}
 ---
-<p>204 Cosky Drive, Apt. 203</br>
-Marina, CA 93933</p>
+<p>Marina, CA 93933</p>
 
 <p>August 2021</p>
 
