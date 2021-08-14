@@ -4,8 +4,8 @@ title: Resume
 ---
 
 # Phillip Emmons
-### 831.236.0849 | philemmons dot now at gmail dot com
-#### **_Summary_**
+### 831.236.0849 | philemmons dot now at gmail dot com | LinkedIn Profile(https://www.linkedin.com/in/phillip-t-emmons/)
+### **_Summary_**
 
 <p>Entry Level Software Engineer committed toward a second career by utilizing B.S. in Computer Science: Software Engineering – ethically designed, developed and deployed large scale software systems that executed on a variety of platforms including mobile, cloud, and other computing devices. Primarily  team participation with all aspects of software process such as codebase understanding, attending design and analysis meetings, devising technical documentation  and implementation based on specifications. Broadening qualitative and conceptual abilities through computational Mathematics was achieved, enjoyable, and challenging as well. Embracing opportunities for advancement, honing technology expertise, and becoming an asset within the company’s culture are critical.</p>
   
@@ -13,17 +13,17 @@ title: Resume
 |:-:|:-:|:-:|
 | Java 	■■■■□ | Algorithms, Git | Active Listening |
 | Data Structures ■■■■■ | PHP, MySQL | Prioritizing Goals |
-| HTML5 ■■■■□ | Google Suite, Python | Implement and Manage Technologies |
-| CSS3 ■■■■□ | JQuery, PostgreSQL |  |
-| JavaScript ■■□□□ | R, BootStrap | Growth Mindset |
-| C++ ■■□□□ | DirectX11, NodeJS | Critical Thinking |
-|  | Express, Angular | Drive |
-|  | React, Jade | Open-mindedness |
+| HTML5 ■■■■□ | Google Suite, Python | Implement and Manage \\ Technologies |
+| CSS3 ■■■■□ | JQuery, PostgreSQL |  Growth Mindset |
+| JavaScript ■■□□□ | R, BootStrap | Critical Thinking |
+| C++ ■■□□□ | DirectX11, NodeJS | Drive |
+|  | Express, Angular | Open-mindedness |
+|  | React, Jade |  |
 
 ---
-#### **_Experience: Major Academic Projects_**
+### **_Experience: Major Academic Projects_**
 
-##### **BACK END DATA VISUALIZATION ENGINEER** &emsp; &emsp; **02/18 to 05/18**
+#### **BACK END DATA VISUALIZATION ENGINEER** &emsp; &emsp; **02/18 to 05/18**
 &emsp; &emsp; &emsp; &emsp; Code for America, [Congressional Data Challenge](https://docs.google.com/presentation/d/1vt1PHWl634FETYke7yBlyp7s80rWXtElhJZRrJBLCwQ/edit#slide=id.p1) Data Science Team.
 
 *Explored, organized, and transformed raw data from California’s General Elections from 2010 to 2016 into features for the predictive models and Client-side Team.*
@@ -35,7 +35,7 @@ title: Resume
 - Supplied and standardized data into a CSV file for populating the Client Side Team’s Django database.
 - **Tool Chain:** PostgreSQL, Mode Analytics, Trello, GitHub, GitLFS, Google Hangouts, Slack.
 
-##### **SOFTWARE ENGINEER**	&emsp; &emsp; **09/17 to 12/17**
+#### **SOFTWARE ENGINEER**	&emsp; &emsp; **09/17 to 12/17**
 &emsp; &emsp; &emsp; &emsp; Software Engineering Meta Course, Final Project - [Project Wiki](https://github.com/CSUMB-SCD/group4_FinalProject/wiki)
 
 *Team designed and implemented large-scale software application utilizing software principles. [Movie Insight(live)](https://movie-insights.herokuapp.com/)*
@@ -49,7 +49,7 @@ title: Resume
 -	Communicated with Slack bi-weekly and in person stand up meetings with the aim of tracking application advancements or issues, which were posted on the progression board.
 -	**Tool Chain:** Cloud9, Github, Heroku, CircleCI, Slack, MySQL Workbench,  Progress Board, Wireframe, UML User Cases.
 
-##### **FULL STACK DEVELOPER** &emsp; &emsp; **05/17**
+#### **FULL STACK DEVELOPER** &emsp; &emsp; **05/17**
 &emsp; &emsp; &emsp; &emsp; Internet Programming, Final Project - [Comic Ink(live)](https://comix-ink.herokuapp.com/index.php)
 
 *Conceived, designed and implemented a website with specific constraints, centralizing on the integration of server-side programming, database connectivity, and client-side scripting resulting in a dynamic web application.*
@@ -62,7 +62,7 @@ title: Resume
 -	**Tool Chain:** Cloud9, Github, Heroku, MySQL Workbench, MVC Framework.
 
 ---
-#### **_Education_**
+### **_Education_**
 - Bachelor of Science - Computer Science: Software Engineering, May 2018.
   - California State University, Monterey Bay.
   - Cum Laude; Dean’s List 2016 to 2018.
@@ -74,11 +74,11 @@ title: Resume
   - Awarded Highest Honors.
 
 ---
-#### **_Personal Interest_**
+### **_Personal Interest_**
 - Cooperative Board Gaming and RPGs.
 - Solving Rubik’s Cube.
 - www.codewars.com
 - Daily Walking.
 - Collecting Silver Age Comic Books.
-- Raspberry Pi
+- Raspberry Pi.
 
