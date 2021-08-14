@@ -20,7 +20,7 @@ title: Resume
 |  | Express, Angular | Open-mindedness |
 |  | React, Jade |  |
 
----
+
 ### **_Experience: Major Academic Projects_**
 
 #### **BACK END DATA VISUALIZATION ENGINEER** &emsp; &emsp; **02/18 to 05/18**
@@ -35,6 +35,7 @@ title: Resume
 - Supplied and standardized data into a CSV file for populating the Client Side Team’s Django database.
 - **Tool Chain:** PostgreSQL, Mode Analytics, Trello, GitHub, GitLFS, Google Hangouts, Slack.
 
+
 #### **SOFTWARE ENGINEER**	&emsp; &emsp; **09/17 to 12/17**
 &emsp; &emsp; &emsp; &emsp; Software Engineering Meta Course, Final Project - [Project Wiki](https://github.com/CSUMB-SCD/group4_FinalProject/wiki)
 
@@ -48,6 +49,7 @@ title: Resume
 -	Established a tool chain to execute continuous integration and deployment that assist with detecting problems early.
 -	Communicated with Slack bi-weekly and in person stand up meetings with the aim of tracking application advancements or issues, which were posted on the progression board.
 -	**Tool Chain:** Cloud9, Github, Heroku, CircleCI, Slack, MySQL Workbench,  Progress Board, Wireframe, UML User Cases.
+
 
 #### **FULL STACK DEVELOPER** &emsp; &emsp; **05/17**
 &emsp; &emsp; &emsp; &emsp; Internet Programming, Final Project - [Comic Ink(live)](https://comix-ink.herokuapp.com/index.php)
@@ -70,7 +72,7 @@ title: Resume
 
 - Associate in Arts - Computer Science and Information Systems, December 2015.
 - Associate in Science for Transfer - Mathematics, December 2015.
-  - Monterey Peninsula College, Monterey, CA.
+  - Monterey Peninsula College.
   - Awarded Highest Honors.
 
 ---
