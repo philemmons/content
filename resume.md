@@ -7,7 +7,8 @@ title: Resume
 
 ##### 831.236.0849 &nbsp;| &nbsp; philemmons.now@gmail.com <br> [linkedin.com/in/phillip-t-emmons](https://www.linkedin.com/in/phillip-t-emmons/){:target="_blank"} &nbsp;| &nbsp;[View Resume PDF](https://drive.google.com/file/d/16WsW1vsMNped4ZOmBRfceCU5PWRXUTbU/view?usp=drive_link){:target="_blank"}
 
-### System Admin / Software Engineer / Web Developer
+### SYSTEM ADMIN / SOFTWARE ENGINEER / WEB DEVELOPER
+
 <p>Entry Level Software Engineer committed toward a second career by utilizing B.S. in Computer Science: Software Engineering – ethically designed, developed and deployed large scale software systems that executed on a variety of platforms including mobile, cloud, and other computing devices. Primarily  team participation with all aspects of software process such as codebase understanding, attending design and analysis meetings, devising technical documentation  and implementation based on specifications. Broadening qualitative and conceptual abilities through computational Mathematics was achieved, enjoyable, and challenging as well. Embracing opportunities for advancement, honing technology expertise, and becoming an asset within the company’s culture are critical.</p>
 
 
@@ -49,8 +50,8 @@ Information Technology Manager &nbsp;|&nbsp; [Evans Data Corporation](https://ev
 - Implement, test, and deploy enterprise grade survey software for critical data gathering based on business needs and requirements.
 <br><br>
 
-#### SOFTWARE DEVELOPER AND IT SPECIALIST &emsp; &emsp; 08/2020 to 09/2021
-Developer &nbsp;|&nbsp; [philemmons.com](https://philemmons.com){:target="_blank"}, Marina, CA. 93933 
+#### SOFTWARE DEVELOPER / IT SPECIALIST &emsp; &emsp; 08/2020 to 09/2021
+IT Technician &nbsp;|&nbsp; [philemmons.com](https://philemmons.com){:target="_blank"}, Marina, CA. 93933 
 
 *Designed, developed, and optimized software solutions for user’s business requirements.*
 - Analyze user’s needs and design, test, and develop hardware or software to meet those requirements.
