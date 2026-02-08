@@ -5,7 +5,7 @@ title: Resume
 
 ## Phillip Emmons
 
-<p>831.236.0849 | philemmons.now@gmail.com | [linkedin.com/in/phillip-t-emmons](https://www.linkedin.com/in/phillip-t-emmons/){:target="_blank"} | [Resume](https://drive.google.com/file/d/16WsW1vsMNped4ZOmBRfceCU5PWRXUTbU/view?usp=drive_link){:target="_blank"}</p>
+##### 831.236.0849 | philemmons.now@gmail.com | [linkedin.com/in/phillip-t-emmons](https://www.linkedin.com/in/phillip-t-emmons/){:target="_blank"} | [Resume](https://drive.google.com/file/d/16WsW1vsMNped4ZOmBRfceCU5PWRXUTbU/view?usp=drive_link){:target="_blank"}
 
 ### *System Admin / Software Engineer / Web Developer*
 <p>Entry Level Software Engineer committed toward a second career by utilizing B.S. in Computer Science: Software Engineering – ethically designed, developed and deployed large scale software systems that executed on a variety of platforms including mobile, cloud, and other computing devices. Primarily  team participation with all aspects of software process such as codebase understanding, attending design and analysis meetings, devising technical documentation  and implementation based on specifications. Broadening qualitative and conceptual abilities through computational Mathematics was achieved, enjoyable, and challenging as well. Embracing opportunities for advancement, honing technology expertise, and becoming an asset within the company’s culture are critical.</p>
@@ -30,13 +30,12 @@ Website Chair | [ Monterey Bay Area Roundup](https://docs.google.com/presentatio
 - Migrating hosting service from Namecheap to Wix as business requirements changed.
 - Improved organic search results by optimizing technical, on-Site, and off-site SEO with refactoring code and emphasizing on relevant keywords for users or search engines.
 - Deployed a fully translated Spanish version which increased user’s engagement.
-<br>
+<br><br>
 
 #### SYSTEM ADMINISTRATOR / IT MANAGER	&emsp; &emsp; 09/2021 to 10/2023
 Information Technology Manager | [Evans Data Corporation](https://evansdata.com){:target="_blank"}, Santa Cruz, CA. 95062
 
 *Administer and oversees all computer related tasks, challenges, and solutions. Daily direct contact with other department leaders and team members.*
-
 -	Updating content or deploying new functions, and maintaining company's online presence for various websites using HTML5, CSS3, PHP, JavaScript, MySQL and CMS stack.
 - Maintaining servers by keeping OS updated, ensuring regular backups, and checking for hardware errors.
 - Oversee proper functionality with internal and external networks, troubleshooting issues, and software configurations.
@@ -48,17 +47,16 @@ Information Technology Manager | [Evans Data Corporation](https://evansdata.com)
 - Continually work with teammates to enhance our online reputation and presence with implementing SEO weekly content changes from Director of Operations and Marketing.
 - CMS and plug-ins, third party or custom, updates are implemented regularly.
 - Implement, test, and deploy enterprise grade survey software for critical data gathering based on business needs and requirements.
-<br>
+<br><br>
 
 #### SOFTWARE DEVELOPER AND IT SPECIALIST &emsp; &emsp; 08/2020 to 09/2021
 Developer | [philemmons.com](https://philemmons.com){:target="_blank"}, Marina, CA. 93933 
 
 *Designed, developed, and optimized software solutions for user’s business requirements.*
-
 - Analyze user’s needs and design, test, and develop hardware or software to meet those requirements.
 - Recommend software upgrades for customer’s existing applications and systems.
 - Implement updates, changes, or configuration, plan successful integration, including training, feedback, and maintenance of those systems.
-
+<br><br>
 
 ### *Skill Set Overview*
 
@@ -71,6 +69,8 @@ Developer | [philemmons.com](https://philemmons.com){:target="_blank"}, Marina, 
 | MySql ■■■□□ | Express, NodeJS | Adaptive |
 | WCAG ■■□□□ | Angular, Spring Boot | Work-Life Balance |
 | JavaScript ■□□□□ |  |  |
+
+<br>
 
 ### *Education*
 - Bachelor of Science - Computer Science: Software Engineering, May 2018.
