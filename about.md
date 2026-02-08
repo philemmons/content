@@ -3,10 +3,9 @@ layout: page
 title: About
 ---
 
-### *Life is Beautiful*
+### *Bring Ideas to Life!*
 
 As an IT professional, I have a strong interest in creating safe, smart, and efficient technological solutions. Whether I'm managing IT infrastructure or developing software, I like taking on difficult tasks and finding solutions. Being skilled in a number of programming languages and frameworks, I'm always looking into new technologies that promote creativity and streamline procedures. With a strong foundation in computer science and a commitment to lifelong learning, I'm determined to advance, transform, and make a big impact in the tech sector.
-### Bring Ideas to life!
 
 Currently, I am committed to beginning my second career as Software Engineer, as it will be an adventure using the skills that has been developed over the years.
 * B.S. in Computer Science with a concentration in Software Engineering from [California State University Monterey Bay](https://csumb.edu/) in 2018. The program is described [here](https://philemmons.github.io/content/2019/09/23/BachSci/).
