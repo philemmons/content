@@ -8,14 +8,15 @@ title: Resume
 ## 831.236.0849 | philemmons.now@gmail.com | [linkedin.com/in/phillip-t-emmons](https://www.linkedin.com/in/phillip-t-emmons/){:target="_blank"} | [Resume](https://drive.google.com/file/d/16WsW1vsMNped4ZOmBRfceCU5PWRXUTbU/view?usp=drive_link){:target="_blank"}
 
 ## *System Admin / Software Engineer / Web Developer*
-
+---
 <p>Entry Level Software Engineer committed toward a second career by utilizing B.S. in Computer Science: Software Engineering – ethically designed, developed and deployed large scale software systems that executed on a variety of platforms including mobile, cloud, and other computing devices. Primarily  team participation with all aspects of software process such as codebase understanding, attending design and analysis meetings, devising technical documentation  and implementation based on specifications. Broadening qualitative and conceptual abilities through computational Mathematics was achieved, enjoyable, and challenging as well. Embracing opportunities for advancement, honing technology expertise, and becoming an asset within the company’s culture are critical.</p>
 
 
 ## *Industry Experience*
+---
 
 ### WEBSITE ADMINISTRATOR / DEVELOPER &emsp; &emsp; 02/2024 to Present
-&emsp; &emsp; &emsp; &emsp; Website Chair | [ Monterey Bay Area Roundup](https://docs.google.com/presentation/d/1vt1PHWl634FETYke7yBlyp7s80rWXtElhJZRrJBLCwQ/edit#slide=id.p1){:target="_blank"}(Nonprofit), Monterey, CA. 93940
+&emsp; &emsp; Website Chair | [ Monterey Bay Area Roundup](https://docs.google.com/presentation/d/1vt1PHWl634FETYke7yBlyp7s80rWXtElhJZRrJBLCwQ/edit#slide=id.p1){:target="_blank"}(Nonprofit), Monterey, CA. 93940
 
 *Responsible for day-to-day administration of hosting service and website. Ensuring accessibility, responsiveness, and efficient user experience.*
 	
@@ -45,7 +46,7 @@ title: Resume
 <br>
 
 ### SYSTEM ADMINISTRATOR / IT MANAGER	&emsp; &emsp; 09/2021 to 10/2023
-&emsp; &emsp; &emsp; &emsp; Information Technology Manager | [Evans Data Corporation](https://evansdata.com){:target="_blank"}, Santa Cruz, CA. 95062
+&emsp; &emsp; Information Technology Manager | [Evans Data Corporation](https://evansdata.com){:target="_blank"}, Santa Cruz, CA. 95062
 
 *Administer and oversees all computer related tasks, challenges, and solutions. Daily direct contact with other department leaders and team members.*
 
@@ -73,7 +74,7 @@ title: Resume
 <br>
 
 ### SOFTWARE DEVELOPER AND IT SPECIALIST &emsp; &emsp; 08/2020 to 09/2021
-&emsp; &emsp; &emsp; &emsp;Developer | [philemmons.com](https://philemmons.com){:target="_blank"}, Marina, CA. 93933 
+&emsp; &emsp; Developer | [philemmons.com](https://philemmons.com){:target="_blank"}, Marina, CA. 93933 
 
 *Designed, developed, and optimized software solutions for user’s business requirements.*
 
@@ -83,10 +84,9 @@ title: Resume
 
 - Implement updates, changes, or configuration, plan successful integration, including training, feedback, and maintenance of those systems.
 
----
 
 ## *Skill Set Overview*
-
+---
 | Technical - Deep | Technical - Broad | Personality |
 |:-:|:-:|:-:|
 | Java 	■■■□□ | Data Structures, Git | Prioritize Goals |
@@ -98,7 +98,7 @@ title: Resume
 | JavaScript ■□□□□ |  |  |
 
 ## *Education*
-
+---
 - Bachelor of Science - Computer Science: Software Engineering, May 2018.
   - California State University, Monterey Bay — Cum Laude; Dean’s List 2016 to 2018.
   - [Unofficial Academic Transcript](https://drive.google.com/file/d/1dL85yA8iQSLrHBr5jGt177mREvp2yFU3/view?usp=sharing){:target="_blank"}
