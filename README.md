@@ -5,7 +5,7 @@
 
 ### References
 
-Major kudos goes out to [Mark Otto](<https://twitter.com/mdo>), the developer of the [Lanyon]( http://lanyon.getpoole.com) theme that is derived from [Poole](http://getpoole.com), and the volunteers that maintain [Jekyll](https://jekyllrb.com/) for the initial github.io website.
+Major kudos goes out to [Mark Otto](<https://x.com/mdo>), the developer of the [Lanyon]( http://lanyon.getpoole.com) theme that is derived from [Poole](http://getpoole.com), and the volunteers that maintain [Jekyll](https://jekyllrb.com/) for the initial github.io website.
 
 Also, listed below are great tutorials that were essential in getting this website online and customized.
 
