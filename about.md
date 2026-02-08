@@ -5,7 +5,8 @@ title: About
 
 ### *Life is Beautiful*
 
-My name is Phillip Emmons, and I have resided in Marina, California for sixteen years. As a very young man, I was enthralled with video game arcades. When our family acquired an [Atari800](http://oldcomputers.net/atari800.html), a five and a quarter inch floppy drive, and eventually a direct connect modem with a 300 baud upload/download speed, we were all looking forward to the hours of entertainment. The computer itself possessed 16k of RAM on cartridges much like an 8-track tape that were inserted into the console. Eventually, I copied my first program of a game into that system, and it was a magical moment!
+As an IT professional, I have a strong interest in creating safe, smart, and efficient technological solutions. Whether I'm managing IT infrastructure or developing software, I like taking on difficult tasks and finding solutions. Being skilled in a number of programming languages and frameworks, I'm always looking into new technologies that promote creativity and streamline procedures. With a strong foundation in computer science and a commitment to lifelong learning, I'm determined to advance, transform, and make a big impact in the tech sector.
+### Bring Ideas to life!
 
 Currently, I am committed to beginning my second career as Software Engineer, as it will be an adventure using the skills that has been developed over the years.
 * B.S. in Computer Science with a concentration in Software Engineering from [California State University Monterey Bay](https://csumb.edu/) in 2018. The program is described [here](https://philemmons.github.io/content/2019/09/23/BachSci/).
