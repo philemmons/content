@@ -5,7 +5,7 @@ permalink: pretty
 # relative_permalinks: true
 
 # Setup
-title: Phillip T. Emmons
+title: Phillip Emmons
 tagline: "Embracing my inner nerd!"
 description: 'Personal adventures, technical write-ups, hobbies, and a place to exchange thoughts.'
 url: http://philemmons.github.io
@@ -16,16 +16,16 @@ sourceUrl: https://github.com/poole/lanyon
 disqus_baseurl: "https://philemmons.github.io/content/"
 disqus_shortname: github.io
 
-ga_tracking_id: "G-S2QEQXYP6F"
+ga_tracking_id: "G-R2SNFZQ2YG"
 
 email: pemmons
 linkedInUrl: phillip-t-emmons/
 githubUrl: https://github.com/philemmons/
-fbUrl : phillip.t.emmons/
-pinterestUrl: philemmons
-skypeUrl: #
-snapchatID: zathor9902
-instagramUrl: emmons9902/
+# fbUrl : phillip.t.emmons/
+# pinterestUrl: philemmons
+# skypeUrl: #
+# snapchatID: zathor9902
+# instagramUrl: emmons9902/
 
 
 plugins:
@@ -34,8 +34,8 @@ plugins:
 
 # About/contact
 author:
-  name: Phillip T. Emmons
-  contact: philemmons dot now at gmail dot com
+  name: Phillip Emmons
+  contact: philemmons.now@gmail.com
 
 # Custom vars
 version:             2.0.1
