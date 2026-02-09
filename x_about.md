@@ -7,14 +7,12 @@ title: About
 
 As an IT professional, I have a strong interest in creating safe, smart, and efficient technological solutions. Whether I'm managing IT infrastructure or developing software, I like taking on difficult tasks and finding solutions. Being skilled in a number of programming languages and frameworks, I'm always looking into new technologies that promote creativity and streamline procedures. With a strong foundation in computer science and a commitment to lifelong learning, I'm determined to advance, transform, and make a big impact in the tech sector.
 
+
 ### *Volunteer Services*
 
 - [Monterey Bay Area Roundup](https://www.montereybayarearoundup.org/){:target="_blank"}
-
 - [Millie's Crazy Flowers](https://millies.crazyflowers.art/){:target="_blank"}
-
 - [2025 Unity Day](https://www.unityday.org/){:target="_blank"}
-
 
 
 ### *Personal Interest*
