@@ -19,11 +19,10 @@ As an IT professional, I have a strong interest in creating safe, smart, and eff
 
 ### *Personal Interest*
 - Cooperative Board Gaming and RPGs
-- Solving Rubik’s Cube
-- Retro Computers: Atari 1200XL
 - Daily Walking
 - Collecting Silver Age Comic Books
 - Raspberry Pi
+- Solving Rubik’s Cube
 - Science Fiction
 
 
