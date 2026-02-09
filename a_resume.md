@@ -15,7 +15,7 @@ title: Resume
 ## **Industry Experience**
 
 #### WEBSITE ADMINISTRATOR / DEVELOPER &emsp; &emsp; 02/2024 to Present
-Website Chair &nbsp;|&nbsp; [ Monterey Bay Area Roundup](https://docs.google.com/presentation/d/1vt1PHWl634FETYke7yBlyp7s80rWXtElhJZRrJBLCwQ/edit#slide=id.p1){:target="_blank"}(Nonprofit), Monterey, CA. 93940
+Website Chair &nbsp;|&nbsp; [ Monterey Bay Area Roundup](https://docs.google.com/presentation/d/1vt1PHWl634FETYke7yBlyp7s80rWXtElhJZRrJBLCwQ/edit#slide=id.p1){:target="_blank"} (Nonprofit), Monterey, CA. 93940
 
 *Responsible for day-to-day administration of hosting service and website. Ensuring accessibility, responsiveness, and efficient user experience.*
 	
