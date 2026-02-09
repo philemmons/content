@@ -5,8 +5,8 @@ permalink: pretty
 # relative_permalinks: true
 
 # Setup
-title: Embracing my inner nerd!
-tagline: "Phillip Emmons"
+title: Embracing My Inner Nerd!
+tagline: " - Phillip Emmons"
 description: 'Personal adventures, technical write-ups, hobbies, and a place to exchange thoughts.'
 url: http://philemmons.github.io
 baseurl: "/content"
