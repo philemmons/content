@@ -9,9 +9,9 @@ comments: true
 philemmons.now@gmail.com<br>
 831.236.0849</p>
 
-<p>Subject: Applying for Developer Positions</p>
 <br>
 
+<p>Subject: Applying for Developer Positions</p>
 <p>Talent Acquisition Manager(s),</p>
 
 <p>I am excited to apply for the Developer position. With proven expertise in designing, developing, and deploying large-scale software systems across platforms, including mobile and Cloud-based environments, I am eager to bring my skills and collaborative mindset to your team.</p>
