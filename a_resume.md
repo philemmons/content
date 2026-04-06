@@ -72,11 +72,11 @@ title: Resume
 
 ## EDUCATION
 **Bachelor of Science, Computer Science (Software Engineering)**
-- California State University, Monterey Bay - **May 2018**
+- California State University, Monterey Bay &nbsp;| &nbsp; **May 2018**
     - **Cum Laude**; Dean’s List (2016–2018) &nbsp;| &nbsp; **<ins>[CSUMB Unofficial Transcript](https://drive.google.com/file/d/1RMC49_WEjtTgyPhaDlVfK4iG--84mHUE/view?usp=drive_link){:target="blank"}</ins>**
 **Associate in Arts, Computer Science and Information Systems**
 - Monterey Peninsula College - **December 2015**
     - **Awarded Highest Honors**
 **Associate in Science for Transfer, Mathematics**
-- Monterey Peninsula College - **December 2015**
-    - **Awarded Highest Honors** &nbsp;|&nbsp; **<ins>[MPC Unofficial Transcript](https://drive.google.com/file/d/1SWBU61DqyVJKGMDtitGUHdVE0AeR65yf/view?usp=drive_link){:target="blank"}</ins>**
+- Monterey Peninsula College &nbsp;| &nbsp; **December 2015**
+    - **Awarded Highest Honors** &nbsp;| &nbsp; **<ins>[MPC Unofficial Transcript](https://drive.google.com/file/d/1SWBU61DqyVJKGMDtitGUHdVE0AeR65yf/view?usp=drive_link){:target="blank"}</ins>**
