@@ -3,83 +3,88 @@ layout: page
 title: Resume
 ---
 
-## **Phillip Emmons**
+# Phillip Emmons
 
-##### 831.236.0849 &nbsp;| &nbsp; philemmons.now@gmail.com <br> [linkedin.com/in/phillip-t-emmons](https://www.linkedin.com/in/phillip-t-emmons/){:target="_blank"} &nbsp;| &nbsp;[View Resume PDF](https://drive.google.com/file/d/16WsW1vsMNped4ZOmBRfceCU5PWRXUTbU/view?usp=drive_link){:target="_blank"}
+### 831.236.0849 &nbsp;| &nbsp; <ins>[philemmons.now@gmail.com](mailto:philemmons.now@gmail.com){:target="blank"}</ins> <br> <ins>[linkedin.com/in/phillip-t-emmons](https://www.linkedin.com/in/phillip-t-emmons/){:target="_blank"}</ins> &nbsp;| &nbsp;<ins>[Resume (pdf)](https://drive.google.com/file/d/1BEbzxZTC8K60SG9oMcGuySIoWsNIJVnu/view?usp=drive_link){:target="_blank"}</ins>
 
-### SYSTEM ADMIN / SOFTWARE ENGINEER / WEB DEVELOPER
+### SUMMARY
 
-<p>Entry Level Software Engineer committed toward a second career by utilizing B.S. in Computer Science: Software Engineering – ethically designed, developed and deployed large scale software systems that executed on a variety of platforms including mobile, cloud, and other computing devices. Primarily  team participation with all aspects of software process such as codebase understanding, attending design and analysis meetings, devising technical documentation  and implementation based on specifications. Broadening qualitative and conceptual abilities through computational Mathematics was achieved, enjoyable, and challenging as well. Embracing opportunities for advancement, honing technology expertise, and becoming an asset within the company’s culture are critical.</p>
+**Systems Administrator and Software Engineer** with a Bachelor’s in Computer Science (*Cum Laude*) and 5+ years of experience bridging application development and Cloud Infrastructure. Adept at collaborating with stakeholders to translate complex business requirements into high-performance, multilingual web solutions (*Spanish*). Expertise in Backend Engineering (*PHP, MySQL*), Frontend Architecture (*HTML5, CSS3, Bootstrap*), and CMS Administration (*Wix, WordPress*). Proven track record of orchestrating deployments via CI/CD (*Git/GitHub*), maintaining 99.9% system uptime through proactive infrastructure governance, and implementing secure server-side configurations, Data Loss Prevention (*DLP*), and enterprise-grade survey systems (*LimeSurvey*) while ensuring strict WCAG 2.1 and Technical SEO compliance.
 
 
-## **Industry Experience**
+## Industry Experience
 
-#### WEBSITE ADMINISTRATOR / DEVELOPER &emsp; &emsp; 02/2024 to Present
-Website Chair &nbsp;|&nbsp; [ Monterey Bay Area Roundup](https://docs.google.com/presentation/d/1vt1PHWl634FETYke7yBlyp7s80rWXtElhJZRrJBLCwQ/edit#slide=id.p1){:target="_blank"} (Nonprofit), Monterey, CA. 93940
-
-*Responsible for day-to-day administration of hosting service and website. Ensuring accessibility, responsiveness, and efficient user experience.*
+### WEBSITE ADMINISTRATOR / DEVELOPER &emsp; &emsp; 01/2024 to Present
+**<ins>[ Monterey Bay Area Roundup ](https://montereybayarearoundup.org){:target="_blank"}</ins>**, Monterey, CA. 93940
 	
-- Monitor, maintain, and refactor the organization’s website, focusing on content, functionality and consistent layout.
-- Optimized accessibility and ADA compliance utilizing WCAG 2.1 guidelines with online tools and manual testing methodologies.
-- Collaborate with various nonprofit Chairpersons for achieving objectives, updates, and requests.
-- Troubleshoot and resolve issues in a timely manner increasing uptime.
-- Scheduled routine backups and applied a data loss prevention plan.
-- Utilize version control with Git ensuring quality and reliability.
-- Manage domain, DNS, redirects, SSL certificates, and security patches.
-- Configure, design, and normalize databases with phpMyAdmin and MySQL.
-- Write high-quality, reusable, and maintainable code in a consistent, descriptive, and modular design for scalability.
-- Migrating hosting service from Namecheap to Wix as business requirements changed.
-- Improved organic search results by optimizing technical, on-Site, and off-site SEO with refactoring code and emphasizing on relevant keywords for users or search engines.
-- Deployed a fully translated Spanish version which increased user’s engagement.
-<br><br>
-
-#### SYSTEM ADMINISTRATOR / IT MANAGER	&emsp; &emsp; 09/2021 to 10/2023
-Information Technology Manager &nbsp;|&nbsp; [Evans Data Corporation](https://evansdata.com){:target="_blank"}, Santa Cruz, CA. 95062
-
-*Administer and oversees all computer related tasks, challenges, and solutions. Daily direct contact with other department leaders and team members.*
--	Updating content or deploying new functions, and maintaining company's online presence for various websites using HTML5, CSS3, PHP, JavaScript, MySQL and CMS stack.
-- Maintaining servers by keeping OS updated, ensuring regular backups, and checking for hardware errors.
-- Oversee proper functionality with internal and external networks, troubleshooting issues, and software configurations.
-- Developed and execute data loss prevention schedules including redundancies.
-- Configured and secured endpoints, printers, and devices with regular software updates, firewalls, anti-virus and malware software installations, scans, and updates.
-- Document software and licenses sources, installations, and expirations for needed endpoints.
-- Managing mail servers, accounts, and accessibility for successful continuous communication.
-- Administration of Cloud based systems and SQL databases ensuring efficiency with normalization and indexes for our stacks.
-- Continually work with teammates to enhance our online reputation and presence with implementing SEO weekly content changes from Director of Operations and Marketing.
-- CMS and plug-ins, third party or custom, updates are implemented regularly.
-- Implement, test, and deploy enterprise grade survey software for critical data gathering based on business needs and requirements.
-<br><br>
-
-#### SOFTWARE DEVELOPER / IT SPECIALIST &emsp; &emsp; 08/2020 to 09/2021
-IT Technician &nbsp;|&nbsp; [philemmons.com](https://philemmons.com){:target="_blank"}, Marina, CA. 93933 
-
-*Designed, developed, and optimized software solutions for user’s business requirements.*
-- Analyze user’s needs and design, test, and develop hardware or software to meet those requirements.
-- Recommend software upgrades for customer’s existing applications and systems.
-- Implement updates, changes, or configuration, plan successful integration, including training, feedback, and maintenance of those systems.
-<br><br>
-
-### **Skill Set Overview**
-
-| Technical - Deep | Technical - Broad | Personality |
-|:-:|:-:|:-:|
-| Java 	■■■□□ | Data Structures, Git | Prioritize Goals |
-| HTML5 ■■■■□ | G-Suite, Python | Implement Technologies |
-| CSS3 ■■■■□ | JQuery, PostgreSQL | Achieve Results |
-| PHP ■■■□□ | Bootstrap, Algorithms |  Embrace Growth |
-| MySql ■■■□□ | Express, NodeJS | Adaptive |
-| WCAG ■■□□□ | Angular, Spring Boot | Work-Life Balance |
-| JavaScript ■□□□□ |  |  |
+- **Managed and optimized a custom-coded web environment (PHP, SQL, HTML5, CSS3) on Namecheap**, utilizing **cPanel** for domain and infrastructure management before architecting a strategic, hybrid infrastructure migration to **Wix**.
+- **Architected and managed a hybrid infrastructure migration to Wix**, integrating specialized hosting for high-volume audio assets and a dedicated mail server for secure domain presence.
+- **Maintained 99.9% uptime and data integrity** through rigorous backup schedules, proactive security patching, and platform-automated version control.
+- **Optimized project management workflows using Trello**, collaborating with various Chairpersons to maintain a consistent **24–48-hour SLA** for content updates and functional deployments.
+- **Implemented an automated event ticketing system** utilizing secure, authorized payment methodologies for streamlined registration and revenue collection.
+- **Generate and deliver weekly sales reports** for online purchases to the Registration and Treasurer Chairpersons, providing critical data for financial oversight and strategic planning.
+- **Engineered and launched a multilingual platform architecture (Spanish/English)**, resulting in increased user engagement and expanded organizational reach.
+- **Optimized accessibility and performance via strict WCAG 2.1 and PageSpeed Insights compliance**, utilizing both automated and manual testing methodologies for a high-speed user experience.
 
 <br>
 
-### **Education**
-- Bachelor of Science - Computer Science: Software Engineering, May 2018.
-  - California State University, Monterey Bay — Cum Laude; Dean’s List 2016 to 2018.
-  - [Unofficial Academic Transcript](https://drive.google.com/file/d/1dL85yA8iQSLrHBr5jGt177mREvp2yFU3/view?usp=sharing){:target="_blank"}
+### SYSTEM ADMINISTRATOR / IT MANAGER	&emsp; &emsp; 09/2021 to 10/2023
 
-- Associate in Arts - Computer Science and Information Systems, December 2015.
-- Associate in Science for Transfer - Mathematics, December 2015.
-  - Monterey Peninsula College — Awarded Highest Honors.
+**<ins>[Evans Data Corporation](https://evansdata.com){:target="_blank"},</ins>**, Santa Cruz, CA. 95062
+- **Established and maintained a "Collaborative Governance" framework**, acting as the primary technical partner to department leaders and cross-functional teams to align IT operations with business objectives.
+- **Modernized enterprise infrastructure by executing critical hardware upgrades and migrating all legacy Operating Systems (OS)** to secure, supported platforms to reduce technical debt.
+- **Architected and managed high-availability server infrastructure**, ensuring 99.9% uptime for enterprise-grade survey software and multiple company websites.
+- **Architected a robust Data Loss Prevention (DLP) protocol utilizing Code42 automation** and manual verification to ensure 100% data recoverability across enterprise endpoints.
+- **Spearheaded technical lifecycle management and refactoring initiatives**, proactively tracking language/tool end-of-life and managing all enterprise software licensing.
+- **Implemented and managed a shared Network File System (NFS)** for cross-team collaboration on large-scale development and market research projects.
+- **Managed Frontend Architecture and CMS Administration across a hybrid ecosystem**, maintaining **four custom-coded web platforms (HTML5, CSS3, Bootstrap)** and one enterprise **WordPress** site.
+- **Engineered web-based applications using the PHP/MySQL stack**, focusing on database indexing, normalization, and secure server-side configuration management.
+- **Orchestrated large-scale data acquisition via Mailgun**, integrating the API to reach a global developer population and gather critical market intelligence through automated survey outreach.
+- **Implemented and managed enterprise-grade survey systems (LimeSurvey)**, ensuring high availability and data integrity for all critical data-gathering initiatives.
+- **Managed domain architecture and infrastructure security**, orchestrating DNS redirects, SSL certificate renewals, and regular system security patches.
+
+<br>
+
+### SOFTWARE DEVELOPER / IT SPECIALIST &emsp; &emsp; 08/2020 to 09/2021
+**<ins>[philemmons.com](https://philemmons.com){:target="_blank"}</ins>**, Marina, CA. 93933 
+
+- **Custom Software Delivery:** Analyzed business requirements to design and develop hardware/software solutions, ensuring high technical performance and alignment with user goals.
+- **Legacy Modernization:** Evaluated client systems to recommend and implement critical upgrades, improving operational efficiency through modern software integration.
+- **End-to-End Implementation:** Managed the full deployment lifecycle, including system configuration, user training, and ongoing maintenance for diverse client environments.
+
+
+<br><br>
+
+## SKILL SET OVERVIEW
+
+### **Core Technical Competencies**
+- **Web Engineering:** PHP, MySQL (Relational Design & Optimization), HTML5, CSS3, Bootstrap.
+- **Systems & Infrastructure:** Website Administration, Domain/DNS Management, SSL/Security Patching, Mail Server Administration.
+- **Governance & Compliance:** Data Loss Prevention (DLP), Infrastructure Governance, WCAG 2.1 Accessibility Standards (Section 508 Compliance).
+
+### **Technical Tool Chain**
+- **Programming Languages:** Java (Primary/Proficient).
+- **DevOps & Administration Tools:** Git (Version Control), Git Bash, FileZilla, cPanel, MySQL Workbench, phpMyAdmin, VS Code.
+
+### Professional Workflows:
+- Agile/Scrum (Standups), Trello (SLA/Task Management), Wireframing, UML Use Cases, ER Diagrams.
+
+
+<br>
+
+## EDUCATION
+
+**Bachelor of Science, Computer Science (Software Engineering)**
+- California State University, Monterey Bay | **May 2018**
+    - **Cum Laude**; Dean’s List (2016–2018) |  <ins>[CSUMB Unofficial Transcript](https://drive.google.com/file/d/1RMC49_WEjtTgyPhaDlVfK4iG--84mHUE/view?usp=drive_link){:target="blank"}</ins>
+
+**Associate in Arts, Computer Science and Information Systems**
+- Monterey Peninsula College | **December 2015**
+    - **Awarded Highest Honors**
+
+**Associate in Science for Transfer, Mathematics**
+- Monterey Peninsula College | **December 2015**
+    - **Awarded Highest Honors** | <ins>[MPC Unofficial Transcript](https://drive.google.com/file/d/1SWBU61DqyVJKGMDtitGUHdVE0AeR65yf/view?usp=drive_link){:target="blank"}</ins>
+
 
 
