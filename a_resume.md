@@ -17,7 +17,6 @@ title: Resume
 ## INDUSTRY EXPERIENCE
 
 **WEBSITE ADMINISTRATOR / DEVELOPER** &emsp; &emsp; 01/2024 to Present
-
 **<ins>[Monterey Bay Area Roundup](https://montereybayarearoundup.org){:target="_blank"}</ins>**, Monterey, CA. 93940
 	
 - **Managed and optimized a custom-coded web environment (PHP, SQL, HTML5, CSS3) on Namecheap**, utilizing **cPanel** for domain and infrastructure management before architecting a strategic, hybrid infrastructure migration to **Wix**.
@@ -31,7 +30,6 @@ title: Resume
 
 
 **SYSTEM ADMINISTRATOR / IT MANAGER**	&emsp; &emsp; 09/2021 to 10/2023
-
 **<ins>[Evans Data Corporation](https://evansdata.com){:target="_blank"}</ins>**, Santa Cruz, CA. 95062
 
 - **Established and maintained a "Collaborative Governance" framework**, acting as the primary technical partner to department leaders and cross-functional teams to align IT operations with business objectives.
@@ -48,7 +46,6 @@ title: Resume
 
 
 **SOFTWARE DEVELOPER / IT SPECIALIST** &emsp; &emsp; 08/2020 to 09/2021
-
 **<ins>[philemmons.com](https://philemmons.com){:target="_blank"}</ins>**, Marina, CA. 93933 
 
 - **Custom Software Delivery:** Analyzed business requirements to design and develop hardware/software solutions, ensuring high technical performance and alignment with user goals.
