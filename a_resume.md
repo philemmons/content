@@ -9,13 +9,15 @@ title: Resume
 
 
 ## SUMMARY
+
 **Systems Administrator and Software Engineer** with a Bachelor’s in Computer Science (*Cum Laude*) and 5+ years of experience bridging application development and Cloud Infrastructure. Adept at collaborating with stakeholders to translate complex business requirements into high-performance, multilingual web solutions (*Spanish*). Expertise in Backend Engineering (*PHP, MySQL*), Frontend Architecture (*HTML5, CSS3, Bootstrap*), and CMS Administration (*Wix, WordPress*). Proven track record of orchestrating deployments via CI/CD (*Git/GitHub*), maintaining 99.9% system uptime through proactive infrastructure governance, and implementing secure server-side configurations, Data Loss Prevention (*DLP*), and enterprise-grade survey systems (*LimeSurvey*) while ensuring strict WCAG 2.1 and Technical SEO compliance.
 
 <br>
 
-## Industry Experience
+## INDUSTRY EXPERIENCE
 
 **WEBSITE ADMINISTRATOR / DEVELOPER** &emsp; &emsp; 01/2024 to Present
+
 **<ins>[Monterey Bay Area Roundup](https://montereybayarearoundup.org){:target="_blank"}</ins>**, Monterey, CA. 93940
 	
 - **Managed and optimized a custom-coded web environment (PHP, SQL, HTML5, CSS3) on Namecheap**, utilizing **cPanel** for domain and infrastructure management before architecting a strategic, hybrid infrastructure migration to **Wix**.
@@ -29,6 +31,7 @@ title: Resume
 
 
 **SYSTEM ADMINISTRATOR / IT MANAGER**	&emsp; &emsp; 09/2021 to 10/2023
+
 **<ins>[Evans Data Corporation](https://evansdata.com){:target="_blank"}</ins>**, Santa Cruz, CA. 95062
 
 - **Established and maintained a "Collaborative Governance" framework**, acting as the primary technical partner to department leaders and cross-functional teams to align IT operations with business objectives.
@@ -45,6 +48,7 @@ title: Resume
 
 
 **SOFTWARE DEVELOPER / IT SPECIALIST** &emsp; &emsp; 08/2020 to 09/2021
+
 **<ins>[philemmons.com](https://philemmons.com){:target="_blank"}</ins>**, Marina, CA. 93933 
 
 - **Custom Software Delivery:** Analyzed business requirements to design and develop hardware/software solutions, ensuring high technical performance and alignment with user goals.
@@ -54,13 +58,16 @@ title: Resume
 <br>
 
 ## SKILL SET OVERVIEW
+
 ### **Core Technical Competencies**
 - **Web Engineering:** PHP, MySQL (Relational Design & Optimization), HTML5, CSS3, Bootstrap.
 - **Systems & Infrastructure:** Website Administration, Domain/DNS Management, SSL/Security Patching, Mail Server Administration.
 - **Governance & Compliance:** Data Loss Prevention (DLP), Infrastructure Governance, WCAG 2.1 Accessibility Standards (Section 508 Compliance).
+
 ### **Technical Tool Chain**
 - **Programming Languages:** Java (Primary/Proficient).
 - **DevOps & Administration Tools:** Git (Version Control), Git Bash, FileZilla, cPanel, MySQL Workbench, phpMyAdmin, VS Code.
+
 ### **Professional Workflows:**
 - Agile/Scrum (Standups), Trello (SLA/Task Management), Wireframing, UML Use Cases, ER Diagrams.
 
