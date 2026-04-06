@@ -14,8 +14,8 @@ title: Resume
 
 ## Industry Experience
 
-### WEBSITE ADMINISTRATOR / DEVELOPER &emsp; &emsp; 01/2024 to Present
-**<ins>[ Monterey Bay Area Roundup ](https://montereybayarearoundup.org){:target="_blank"}</ins>**, Monterey, CA. 93940
+#### **WEBSITE ADMINISTRATOR / DEVELOPER** &emsp; &emsp; 01/2024 to Present
+**<ins>[Monterey Bay Area Roundup](https://montereybayarearoundup.org){:target="_blank"}</ins>**, Monterey, CA. 93940
 	
 - **Managed and optimized a custom-coded web environment (PHP, SQL, HTML5, CSS3) on Namecheap**, utilizing **cPanel** for domain and infrastructure management before architecting a strategic, hybrid infrastructure migration to **Wix**.
 - **Architected and managed a hybrid infrastructure migration to Wix**, integrating specialized hosting for high-volume audio assets and a dedicated mail server for secure domain presence.
@@ -28,9 +28,9 @@ title: Resume
 
 <br>
 
-### SYSTEM ADMINISTRATOR / IT MANAGER	&emsp; &emsp; 09/2021 to 10/2023
+#### **SYSTEM ADMINISTRATOR / IT MANAGER**	&emsp; &emsp; 09/2021 to 10/2023
 
-**<ins>[Evans Data Corporation](https://evansdata.com){:target="_blank"},</ins>**, Santa Cruz, CA. 95062
+**<ins>[Evans Data Corporation](https://evansdata.com){:target="_blank"}</ins>**, Santa Cruz, CA. 95062
 - **Established and maintained a "Collaborative Governance" framework**, acting as the primary technical partner to department leaders and cross-functional teams to align IT operations with business objectives.
 - **Modernized enterprise infrastructure by executing critical hardware upgrades and migrating all legacy Operating Systems (OS)** to secure, supported platforms to reduce technical debt.
 - **Architected and managed high-availability server infrastructure**, ensuring 99.9% uptime for enterprise-grade survey software and multiple company websites.
@@ -45,7 +45,7 @@ title: Resume
 
 <br>
 
-### SOFTWARE DEVELOPER / IT SPECIALIST &emsp; &emsp; 08/2020 to 09/2021
+#### **SOFTWARE DEVELOPER / IT SPECIALIST** &emsp; &emsp; 08/2020 to 09/2021
 **<ins>[philemmons.com](https://philemmons.com){:target="_blank"}</ins>**, Marina, CA. 93933 
 
 - **Custom Software Delivery:** Analyzed business requirements to design and develop hardware/software solutions, ensuring high technical performance and alignment with user goals.
@@ -66,25 +66,23 @@ title: Resume
 - **Programming Languages:** Java (Primary/Proficient).
 - **DevOps & Administration Tools:** Git (Version Control), Git Bash, FileZilla, cPanel, MySQL Workbench, phpMyAdmin, VS Code.
 
-### Professional Workflows:
+### **Professional Workflows:**
 - Agile/Scrum (Standups), Trello (SLA/Task Management), Wireframing, UML Use Cases, ER Diagrams.
-
 
 <br>
 
 ## EDUCATION
-
 **Bachelor of Science, Computer Science (Software Engineering)**
-- California State University, Monterey Bay | **May 2018**
-    - **Cum Laude**; Dean’s List (2016–2018) |  <ins>[CSUMB Unofficial Transcript](https://drive.google.com/file/d/1RMC49_WEjtTgyPhaDlVfK4iG--84mHUE/view?usp=drive_link){:target="blank"}</ins>
+- California State University, Monterey Bay &nbsp;| &nbsp; **May 2018**
+    - **Cum Laude**; Dean’s List (2016–2018) &nbsp;| &nbsp; <ins>[CSUMB Unofficial Transcript](https://drive.google.com/file/d/1RMC49_WEjtTgyPhaDlVfK4iG--84mHUE/view?usp=drive_link){:target="blank"}</ins>
 
 **Associate in Arts, Computer Science and Information Systems**
-- Monterey Peninsula College | **December 2015**
+- Monterey Peninsula College &nbsp;| &nbsp; **December 2015**
     - **Awarded Highest Honors**
 
 **Associate in Science for Transfer, Mathematics**
-- Monterey Peninsula College | **December 2015**
-    - **Awarded Highest Honors** | <ins>[MPC Unofficial Transcript](https://drive.google.com/file/d/1SWBU61DqyVJKGMDtitGUHdVE0AeR65yf/view?usp=drive_link){:target="blank"}</ins>
+- Monterey Peninsula College &nbsp;| &nbsp; **December 2015**
+    - **Awarded Highest Honors** &nbsp;| &nbsp; <ins>[MPC Unofficial Transcript](https://drive.google.com/file/d/1SWBU61DqyVJKGMDtitGUHdVE0AeR65yf/view?usp=drive_link){:target="blank"}</ins>
 
 
 
