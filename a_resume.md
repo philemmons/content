@@ -11,6 +11,7 @@ title: Resume
 ## SUMMARY
 **Systems Administrator and Software Engineer** with a Bachelor’s in Computer Science (*Cum Laude*) and 5+ years of experience bridging application development and Cloud Infrastructure. Adept at collaborating with stakeholders to translate complex business requirements into high-performance, multilingual web solutions (*Spanish*). Expertise in Backend Engineering (*PHP, MySQL*), Frontend Architecture (*HTML5, CSS3, Bootstrap*), and CMS Administration (*Wix, WordPress*). Proven track record of orchestrating deployments via CI/CD (*Git/GitHub*), maintaining 99.9% system uptime through proactive infrastructure governance, and implementing secure server-side configurations, Data Loss Prevention (*DLP*), and enterprise-grade survey systems (*LimeSurvey*) while ensuring strict WCAG 2.1 and Technical SEO compliance.
 
+<br>
 
 ## Industry Experience
 
@@ -50,9 +51,9 @@ title: Resume
 - **Legacy Modernization:** Evaluated client systems to recommend and implement critical upgrades, improving operational efficiency through modern software integration.
 - **End-to-End Implementation:** Managed the full deployment lifecycle, including system configuration, user training, and ongoing maintenance for diverse client environments.
 
+<br>
 
 ## SKILL SET OVERVIEW
-
 ### **Core Technical Competencies**
 - **Web Engineering:** PHP, MySQL (Relational Design & Optimization), HTML5, CSS3, Bootstrap.
 - **Systems & Infrastructure:** Website Administration, Domain/DNS Management, SSL/Security Patching, Mail Server Administration.
@@ -63,14 +64,15 @@ title: Resume
 ### **Professional Workflows:**
 - Agile/Scrum (Standups), Trello (SLA/Task Management), Wireframing, UML Use Cases, ER Diagrams.
 
+<br>
 
 ## EDUCATION
 **Bachelor of Science, Computer Science (Software Engineering)**
-- California State University, Monterey Bay &nbsp;|&nbsp; **May 2018**
+- California State University, Monterey Bay - **May 2018**
     - **Cum Laude**; Dean’s List (2016–2018) &nbsp;| &nbsp; **<ins>[CSUMB Unofficial Transcript](https://drive.google.com/file/d/1RMC49_WEjtTgyPhaDlVfK4iG--84mHUE/view?usp=drive_link){:target="blank"}</ins>**
 **Associate in Arts, Computer Science and Information Systems**
-- Monterey Peninsula College &nbsp;|&nbsp; **December 2015**
+- Monterey Peninsula College - **December 2015**
     - **Awarded Highest Honors**
 **Associate in Science for Transfer, Mathematics**
-- Monterey Peninsula College &nbsp;|&nbsp; **December 2015**
+- Monterey Peninsula College - **December 2015**
     - **Awarded Highest Honors** &nbsp;|&nbsp; **<ins>[MPC Unofficial Transcript](https://drive.google.com/file/d/1SWBU61DqyVJKGMDtitGUHdVE0AeR65yf/view?usp=drive_link){:target="blank"}</ins>**
