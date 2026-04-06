@@ -28,6 +28,7 @@ title: Resume
 
 **SYSTEM ADMINISTRATOR / IT MANAGER**	&emsp; &emsp; 09/2021 to 10/2023
 **<ins>[Evans Data Corporation](https://evansdata.com){:target="_blank"}</ins>**, Santa Cruz, CA. 95062
+
 - **Established and maintained a "Collaborative Governance" framework**, acting as the primary technical partner to department leaders and cross-functional teams to align IT operations with business objectives.
 - **Modernized enterprise infrastructure by executing critical hardware upgrades and migrating all legacy Operating Systems (OS)** to secure, supported platforms to reduce technical debt.
 - **Architected and managed high-availability server infrastructure**, ensuring 99.9% uptime for enterprise-grade survey software and multiple company websites.
@@ -43,6 +44,7 @@ title: Resume
 
 **SOFTWARE DEVELOPER / IT SPECIALIST** &emsp; &emsp; 08/2020 to 09/2021
 **<ins>[philemmons.com](https://philemmons.com){:target="_blank"}</ins>**, Marina, CA. 93933 
+
 - **Custom Software Delivery:** Analyzed business requirements to design and develop hardware/software solutions, ensuring high technical performance and alignment with user goals.
 - **Legacy Modernization:** Evaluated client systems to recommend and implement critical upgrades, improving operational efficiency through modern software integration.
 - **End-to-End Implementation:** Managed the full deployment lifecycle, including system configuration, user training, and ongoing maintenance for diverse client environments.
