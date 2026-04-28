@@ -3,7 +3,7 @@ layout: page
 title: Resume
 ---
 
-# Phillip Emmons
+# <h1 style="text-align:center;"> Phillip Emmons </h1>
 
 <p style="text-align:center;"> 📞 831.236.0849 &nbsp;|&nbsp; 📧 [philemmons.now@gmail.com](mailto:philemmons.now@gmail.com) &nbsp;|&nbsp; 🌐 [philemmons.com](https://philemmons.com) &nbsp;|&nbsp; 💼 [linkedin.com/in/phillip-t-emmons](https://www.linkedin.com/in/phillip-t-emmons/)  
 📍 Marina, CA </p>
