@@ -5,11 +5,8 @@ title: Resume
 
 # <center>Phillip Emmons</center>
 
-📞 831.236.0849 &nbsp;|&nbsp; 📧 [philemmons.now@gmail.com](mailto:philemmons.now@gmail.com) &nbsp;|&nbsp; 🌐 [philemmons.com](https://philemmons.com) &nbsp;|&nbsp; 💼 [linkedin.com/in/phillip-t-emmons](https://www.linkedin.com/in/phillip-t-emmons/) 
-
 <center> 
 📞 831.236.0849 &nbsp;|&nbsp; 📧 <a href="mailto:philemmons.now@gmail.com">philemmons.now@gmail.com</a> &nbsp;|&nbsp; 🌐 <a href="https://philemmons.com">philemmons.com</a> &nbsp;|&nbsp; 💼 <a href="https://www.linkedin.com/in/phillip-t-emmons">linkedin.com/in/phillip-t-emmons</a> 
-
 </center>
 
 <p style="text-align:center;"> 📍 Marina, CA </p>
