@@ -3,9 +3,10 @@ layout: page
 title: Resume
 ---
 
-# <p style="text-align:center;"> Phillip Emmons </p>
+# <center>Phillip Emmons</center>
 
-📞 831.236.0849 &nbsp;|&nbsp; 📧 [philemmons.now@gmail.com](mailto:philemmons.now@gmail.com) &nbsp;|&nbsp; 🌐 [philemmons.com](https://philemmons.com) &nbsp;|&nbsp; 💼 [linkedin.com/in/phillip-t-emmons](https://www.linkedin.com/in/phillip-t-emmons/)  
+<center> 📞 831.236.0849 &nbsp;|&nbsp; 📧 [philemmons.now@gmail.com](mailto:philemmons.now@gmail.com) &nbsp;|&nbsp; 🌐 [philemmons.com](https://philemmons.com) &nbsp;|&nbsp; 💼 [linkedin.com/in/phillip-t-emmons](https://www.linkedin.com/in/phillip-t-emmons/) </center>
+
 <p style="text-align:center;"> 📍 Marina, CA </p>
 
 ---
